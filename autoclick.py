@@ -6,7 +6,7 @@ from pynput.keyboard import Listener, KeyCode
 
 delay = 0.001
 button = Button.left
-start_stop_key = KeyCode(char='i')
+start_stop_key = KeyCode(char='0')
 exit_key = KeyCode(char='l')
 
 
